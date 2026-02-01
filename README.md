@@ -64,5 +64,23 @@ Les preuves restent au niveau “outil” : l’accent est mis sur **la compréh
 
 ## Licence
 
-Sauf indication contraire, le contenu de ce dépôt est fourni à des fins **pédagogiques**.  
-(Option : préciser ici une licence type CC BY-NC-SA 4.0 si vous le souhaitez.)
+Sauf indication contraire, l’ensemble du contenu de ce dépôt (supports de cours, poly, transparents, énoncés et corrigés) est mis à disposition sous licence **Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International (CC BY-NC-SA 4.0)**.
+
+**Vous êtes autorisé(e) à :**
+- **Partager** — copier, distribuer et communiquer le matériel par tous moyens et sous tous formats ;
+- **Adapter** — remixer, transformer et créer à partir du matériel.
+
+**Selon les conditions suivantes :**
+- **Attribution** — vous devez créditer l’auteur, indiquer si des modifications ont été effectuées et inclure un lien vers la licence ;
+- **Pas d’utilisation commerciale** — vous n’êtes pas autorisé(e) à faire un usage commercial de ce matériel ;
+- **Partage dans les mêmes conditions** — si vous modifiez, transformez ou créez à partir du matériel, vous devez diffuser votre contribution sous la même licence **CC BY-NC-SA 4.0**.
+
+Texte de la licence : https://creativecommons.org/licenses/by-nc-sa/4.0/  
+Résumé (human-readable) : https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr
+
+### Citation recommandée
+
+> Auteur : Antonio Falcó  
+> Titre : *Modélisation stochastique — Intégrale d’Itô & outils de modélisation (CM/TD)*  
+> Licence : CC BY-NC-SA 4.0  
+> Source : (lien vers ce dépôt)
